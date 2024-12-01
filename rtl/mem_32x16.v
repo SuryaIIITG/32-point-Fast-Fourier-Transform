@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////
-// Engineer: Amey Kulkarni
+// Engineer: Suryadev Singh
 // Design Name: Fast Fourier Transform (16-point) 
 // Module Name:  mem_32x16
 // Project Name: Fast Fourier Transform (16-point)

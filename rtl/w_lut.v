@@ -1,6 +1,6 @@
 
 //////////////////////////////////////////////////////////////////////////////////
-// Engineer: Amey Kulkarni
+// Engineer: Suryadev.singh
 // Design Name: Fast Fourier Transform (16-point) 
 // Module Name:  w_lut
 // Project Name: Fast Fourier Transform (16-point)
